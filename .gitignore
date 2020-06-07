@@ -1,0 +1,12 @@
+build
+dist
+envA
+outStat4nex.egg-info
+.vscode
+.pytest_cache
+outStat4nex/data
+outStat4nex/.vscode
+outStat4nex/__pycache__
+tests/__pycache__
+tests/data/*.txt
+tests/data/*.xlsx
